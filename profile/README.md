@@ -1,6 +1,6 @@
 # Invoices-Manager
 
-![Invoices-Manager Logo](https://github.com/Invoices-Manager/.github/tree/main/profile/invoices-manager-logo.png)
+![Invoices-Manager Logo](https://raw.githubusercontent.com/Invoices-Manager/.github/main/profile/invoices-manager-logo.png)
 
 ## Description
 
