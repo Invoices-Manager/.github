@@ -1,6 +1,6 @@
 # Invoices-Manager
 
-
+![Invoices-Manager Logo](invoices-manager-logo.png)
 
 ## Description
 
